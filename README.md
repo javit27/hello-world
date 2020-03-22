@@ -1,2 +1,5 @@
 # hello-world
-Thsi is my hello-world repository
+This is my hello-world repository
+
+My name is John
+I'm quarantined
